@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to PacoBank-Loans microservice-PROD profile"
+  message: "Welcome to PacoBank-Loans microservice-Production profile"
   contactDetails:
     name: "Lionel Messi-Product owner"
     email: "product_owner@pacobank.com"
