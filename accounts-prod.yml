@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to PacoBank-Accounts microservice-PROD profile"
   contactDetails:
     name: "Lionel Messi-Product owner"
-    email: "product_owner@pacobank.com"
+    email: "{cipher}7376b3b305ea57a76bac8ee73f397878bc04886178528654f2a93c3c8d3ffc163a613b61245af42a475325d4a6b3deab"
   onCallSupport:
     - (55) 1234
     - (55) 1235
